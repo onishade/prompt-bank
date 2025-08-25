@@ -96,7 +96,16 @@ Keep it natural, as if journaling for the community.
 ---
 
 ## 🔹 2. Threads (Deep Dive / Edukasi / Storytelling)
+**Thread **
 
+```
+Write a thread that breaks down [PROJECT] in a storytelling style.
+- Begin with “Here’s why I’m watching [PROJECT] closely…”.
+- Tell the story in 6–8 tweets: origin, what it does, backing, and future potential.
+- Make it sound like explaining to friends, not a whitepaper summary.
+- Sprinkle curiosity (“this part got me thinking”, “imagine if this scales”).
+- End with casual open-ended thought: “bullish or not?”.
+```
 **Project Deep Dive**
 
 ```
