@@ -1,6 +1,6 @@
 # 📝 X (Twitter) Content Prompt Bank
 
-Kumpulan **prompt advance** untuk membuat konten X (Twitter) tentang Web3, airdrops, dan alpha hunting.\
+Kumpulan **prompt advance** untuk membuat konten X (Twitter) tentang Web3, airdrops, dan alpha hunting.
 Didesain supaya hasil terlihat **manusiawi, variatif, dan natural** — bukan seperti hasil AI generik.
 
 ---
@@ -126,6 +126,36 @@ Style: storytelling to friends, not a Wikipedia entry.
 Length: 6–8 tweets.
 ```
 
+**Project Comparison**
+
+```
+Write a thread comparing [PROJECT A] vs [PROJECT B].
+- Start with a hook: why this comparison matters.
+- Cover similarities, differences, pros/cons.
+- Add light commentary (“this feature feels underrated”).
+- Keep it friendly and not too technical.
+Length: 5–7 tweets.
+```
+
+**Alpha Thread**
+
+```
+Write a thread sharing an alpha opportunity about [PROJECT/TESTNET].
+- Hook: make it sound urgent but conversational.
+- Drop 3–5 key points or steps.
+- Keep each tweet short and natural.
+- End with a reminder to DYOR, written casually.
+```
+
+**Daily Log Thread**
+
+```
+Write a short thread as if journaling progress on [PROJECT/TESTNET].
+- Start with “Day X of testing [PROJECT]”.
+- Share 3–5 bullet-like tweets: small struggles, cool features, surprises.
+- Tone: raw, casual, like notes to the community.
+```
+
 ---
 
 ## 🔹 3. Komentar (Replies)
@@ -199,13 +229,12 @@ Slight imperfections are welcome to sound human.
 
 ## 📌 Tips Biar Hasil Natural
 
-- Jangan takut tambahin sedikit *flaws* (typo kecil, incomplete thought).
-- Gunakan variasi gaya: opini, cerita, humor, pertanyaan.
-- Selalu mix antara **value (alpha)** + **personality (gaya santai)**.
+* Jangan takut tambahin sedikit *flaws* (typo kecil, incomplete thought).
+* Gunakan variasi gaya: opini, cerita, humor, pertanyaan.
+* Selalu mix antara **value (alpha)** + **personality (gaya santai)**.
 
 ---
 
 ## ⚡ License
 
 Free to use, adapt, and remix. Perfect for building your X presence as an **Alpha Hunter** 🚀
-
