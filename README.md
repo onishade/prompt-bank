@@ -1,7 +1,7 @@
-# 📝 X (Twitter) Advanced Prompt Bank — Version 2.0
+# 📝 X (Twitter) Advanced Prompt Bank — Version 2.1
 
 Kumpulan prompt untuk membangun **konten X** tentang Web3, airdrops, alpha hunting, dan engagement.
-Didesain agar terlihat **manusiawi, natural, dan variatif**, mencakup postingan harian, threads, memes, reply, dan branding.
+Didesain agar terlihat **manusiawi, natural, dan variatif**, mencakup postingan harian, threads, memes, reply, branding, dan insight tambahan.
 
 ---
 
@@ -40,6 +40,18 @@ Write a short tweet hinting at early alpha or opportunity in [PROJECT], casual a
 Write a tweet about your progress or experience testing/farming [PROJECT]. Keep it relatable, slightly unpolished.
 ```
 
+* **Fun Fact / Trivia**
+
+```
+Write a short tweet sharing an interesting or lesser-known fact about [PROJECT]. Make it casual and engaging.
+```
+
+* **Question / Engagement Hook**
+
+```
+Write a tweet asking the audience a curious question about [PROJECT] to generate replies and discussion.
+```
+
 ---
 
 ## 🔹 2. Threads — Deep Dive & Airdrop Info
@@ -60,6 +72,18 @@ Write a 6-8 tweet thread showing how to join [PROJECT] testnet airdrop. Include 
 
 ```
 Write a thread explaining how [PROJECT] fits the bigger Web3 trend. Hook with curiosity, cover key points, end with reflective question.
+```
+
+* **Comparison / vs Competitor**
+
+```
+Write a thread comparing [PROJECT] with a similar project. Include strengths, weaknesses, potential airdrops, and human commentary. Keep it conversational.
+```
+
+* **Lessons / Mistakes**
+
+```
+Write a thread outlining common mistakes or pitfalls while participating in [PROJECT] testnet. Include tips and casual humor, 5-7 tweets.
 ```
 
 ---
@@ -88,6 +112,12 @@ Meme showing early users advantage for [PROJECT]. Use flex templates (Galaxy bra
 
 ```
 Generate meme about airdrop hunters rushing [PROJECT]. Use chaotic templates, add playful captions.
+```
+
+* **Reaction GIF / Quick Laugh**
+
+```
+Generate a GIF-style meme that reacts humorously to [PROJECT] news or alpha. Keep it short, relatable, human.
 ```
 
 ---
@@ -124,6 +154,12 @@ Write a casual tweet asking the community about [TOPIC/PROJECT], open-ended and 
 Write a tweet setting up a fun poll about [TOPIC], playful or curious tone.
 ```
 
+* **Quick Advice / Tip Reply**
+
+```
+Write a short, helpful reply giving advice or a tip related to [PROJECT], casual and human.
+```
+
 ---
 
 ## 🔹 5. Branding & Persona
@@ -146,6 +182,12 @@ Write a motivational tweet about showing up daily as airdrop hunter. Raw, relata
 Write a tweet reflecting your identity as an insightful, careful alpha hunter. Include curiosity or light humor.
 ```
 
+* **Behind the Scenes / Daily Life**
+
+```
+Write a casual tweet sharing a behind-the-scenes moment of your work/testing with [PROJECT]. Keep it human, relatable.
+```
+
 ---
 
 ## 🔹 6. Market / Trend Insight
@@ -166,6 +208,12 @@ Write a 1-2 sentence tweet summarizing current sentiment in DeFi/NFT/L2, add sma
 
 ```
 Write a tweet speculating next potential alpha project in Web3, casual, human tone.
+```
+
+* **Historical Comparison / Lessons Learned**
+
+```
+Write a short tweet comparing [PROJECT] to previous similar projects, highlight lessons or insights. Tone: casual, human.
 ```
 
 ---
@@ -199,6 +247,12 @@ Write a 4-6 tweet thread about new alpha opportunity in [PROJECT]. Hook with cur
 
 ```
 Write a thread linking new airdrop/alpha to trending Web3 narrative. Hook must grab attention, tone casual, 5-7 tweets, end with open question.
+```
+
+* **Urgent Daily Alpha Post**
+
+```
+Write a daily update tweet or mini-thread on newly discovered alpha or airdrop, highlight urgency, keep it casual and human.
 ```
 
 ---
