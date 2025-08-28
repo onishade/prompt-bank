@@ -1,7 +1,7 @@
-# 📝 X (Twitter) Advanced Prompt Bank — Version 2.1
+# 📝 X (Twitter) Advanced Prompt Bank — Version 3.0
 
-Kumpulan prompt untuk membangun **konten X** tentang Web3, airdrops, alpha hunting, dan engagement.
-Didesain agar terlihat **manusiawi, natural, dan variatif**, mencakup postingan harian, threads, memes, reply, branding, dan insight tambahan.
+Kumpulan prompt untuk membangun **konten X** tentang Web3, airdrops, alpha hunting, engagement, dan edukasi.
+Didesain agar terlihat **manusiawi, natural, dan variatif**, mencakup postingan harian, threads, memes, reply, branding, insight, edukasi, dan analisis.
 
 ---
 
@@ -54,7 +54,7 @@ Write a tweet asking the audience a curious question about [PROJECT] to generate
 
 ---
 
-## 🔹 2. Threads — Deep Dive & Airdrop Info
+## 🔹 2. Threads — Deep Dive, Airdrop Info & How-To
 
 * **Project Deep Dive**
 
@@ -84,6 +84,18 @@ Write a thread comparing [PROJECT] with a similar project. Include strengths, we
 
 ```
 Write a thread outlining common mistakes or pitfalls while participating in [PROJECT] testnet. Include tips and casual humor, 5-7 tweets.
+```
+
+* **How-To / Tutorial**
+
+```
+Write a 4-5 tweet thread explaining step-by-step how to participate in [PROJECT] testnet for potential airdrop. Use casual, friendly language.
+```
+
+* **Retrospective / Lessons Learned**
+
+```
+Write a 5-tweet thread sharing lessons learned from [PROJECT] testnet. Include mistakes, surprises, and tips. Tone: casual and reflective.
 ```
 
 ---
@@ -216,6 +228,12 @@ Write a tweet speculating next potential alpha project in Web3, casual, human to
 Write a short tweet comparing [PROJECT] to previous similar projects, highlight lessons or insights. Tone: casual, human.
 ```
 
+* **Analysis / Tokenomics**
+
+```
+Write a short thread or tweet analyzing [PROJECT] tokenomics and roadmap. Highlight strengths, weaknesses, and potential airdrop opportunities. Keep it conversational, human, insightful.
+```
+
 ---
 
 ## 🔹 7. Weekly Early Testnet Airdrop List
@@ -253,6 +271,28 @@ Write a thread linking new airdrop/alpha to trending Web3 narrative. Hook must g
 
 ```
 Write a daily update tweet or mini-thread on newly discovered alpha or airdrop, highlight urgency, keep it casual and human.
+```
+
+* **Curiosity / Teasing Alert**
+
+```
+Write a short tweet or thread that teases an upcoming alpha or feature in [PROJECT], playful and curiosity-driven. Keep it natural.
+```
+
+---
+
+## 🔹 9. Curated Lists / Recap
+
+```
+Write a short thread or tweet listing top 3-5 early-stage Web3 projects this week. Include why each is interesting and potential airdrop or alpha opportunity. Casual, human, concise.
+```
+
+---
+
+## 🔹 10. Visual / Infographic Suggestions
+
+```
+Suggest a visual or infographic idea explaining [PROJECT] testnet, tokenomics, or roadmap in a simple, human-friendly way. Include captions or callouts suitable for X post.
 ```
 
 ---
